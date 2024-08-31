@@ -2,7 +2,7 @@ body {
     margin: auto;
     width: 60%;
     text-align: justify;
-    background: url("./fts.avif") no-repeat center center;
+    background: url("../images/fts.avif") no-repeat center center;
     background-size: cover;
 }
 
