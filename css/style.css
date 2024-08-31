@@ -1,0 +1,50 @@
+body {
+    background-color: aliceblue;
+    margin: auto;
+    width: 60%;
+    text-align: justify;
+}
+
+.login {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 2px;
+    background-image: url("./fts.avif");
+    margin-top: 50px;
+}
+.login h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4CB5F9;
+}
+.login h3 {
+    color: grey;
+    font-family: sans-serif;
+    margin: 2px 0px 10px;
+}
+
+.login button {
+     background-color: #4CB5F9;
+     color: #FEFCFD;
+     border-style: solid;
+     border-color: #4CB5F9;
+     padding: 10px 40px 10px 40px;
+     border-radius: 5px;
+     margin: 20px; 
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 2px;
+    background-image: url("./fts.avif");
+    color: white;
+}
